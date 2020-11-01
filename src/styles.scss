@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  padding: 2rem;
+}
+
+.titleStyle {
+  padding-bottom: 1rem;
+  font-size: xx-large
+}
+
+.labelStyle {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  font-size: large;
+}
+
+.buttonStyle {
+  padding-top: 2rem;
+}
+
+.currentLengthStyle {
+  font-size: smaller;
+
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
